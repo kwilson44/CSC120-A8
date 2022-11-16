@@ -22,7 +22,7 @@ _____ 10 pts: The class meaningfully implements each of the methods in described
       _____ `Number grow();`
       _____ `void rest();`
       _____ `void undo();`
-
+      
 
 ## General Items:
 
